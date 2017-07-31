@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">VideoWallPaper</string>
+    <string name="choosepaper">选择壁纸</string>
+    <string name="openlive">实时壁纸</string>
+</resources>
